@@ -3,6 +3,12 @@
 ## Overview
 Welcome to the Malayalam Image Captioning Project! This repository houses an innovative approach to generating captions in Malayalam for images, combining advanced techniques in natural language processing and computer vision. Our project leverages the power of neural networks, specifically the Vision Transformer (ViT) and models like BERT and GPT-2, to interpret images and generate relevant, context-aware captions in Malayalam.
 
+## Project Highlights
+- 🌟 **Innovative Integration**: Combines ViT with GPT-2 and BERT for effective image captioning in Malayalam.
+- 📚 **Extensive Dataset**: Utilizes a translated version of the Flickr30k dataset, creating a unique Malayalam dataset for image captioning.
+- 📈 **Advanced Evaluation**: Employs BLEU, METEOR, and Cosine Similarity metrics for comprehensive performance analysis.
+- 🤖 **AI at the Forefront**: Sets a precedent for Malayalam language processing in AI, enhancing accessibility and inclusivity.
+
 ## Contents
 - `Translation.ipynb`: A notebook that uses Google Cloud Translation API for translating English captions into Malayalam.
 - `Data_Preparation.ipynb`: Essential scripts for preparing the dataset, including segregating images into train, validation, and test sets, and processing captions.
