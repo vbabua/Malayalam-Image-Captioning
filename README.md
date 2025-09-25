@@ -9,6 +9,14 @@ Welcome to the Malayalam Image Captioning Project! This repository houses an inn
 - 📈 **Advanced Evaluation**: Employs BLEU, METEOR, and Cosine Similarity metrics for comprehensive performance analysis.
 - 🤖 **AI at the Forefront**: Sets a precedent for Malayalam language processing in AI, enhancing accessibility and inclusivity.
 
+## Architecture
+
+**ViT + GPT-2 Architecture**  
+![ViT + GPT-2 Architecture](images/vit_gpt2.png)
+
+**ViT + BERT Architecture**  
+![ViT + BERT Architecture](images/vit_bert.png)
+
 ## Contents
 - `Translation.ipynb`: A notebook that uses Google Cloud Translation API for translating English captions into Malayalam.
 - `Data_Preparation.ipynb`: Essential scripts for preparing the dataset, including segregating images into train, validation, and test sets, and processing captions.
