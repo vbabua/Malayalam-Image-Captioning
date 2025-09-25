@@ -12,10 +12,10 @@ Welcome to the Malayalam Image Captioning Project! This repository houses an inn
 ## Architecture
 
 **ViT + GPT-2 Architecture**  
-![ViT + GPT-2 Architecture](images/vit_gpt2.png)
+![ViT + GPT-2 Architecture](images/VIT+BERT.png)
 
 **ViT + BERT Architecture**  
-![ViT + BERT Architecture](images/vit_bert.png)
+![ViT + BERT Architecture](images/VIT+GPT.png)
 
 ## Contents
 - `Translation.ipynb`: A notebook that uses Google Cloud Translation API for translating English captions into Malayalam.
